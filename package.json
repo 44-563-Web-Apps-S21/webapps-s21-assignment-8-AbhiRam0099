@@ -1,0 +1,19 @@
+{
+  "name": "cd",
+  "version": "1.0.0",
+  "description": "A starter repo for doing a request from a nodeJS server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/44-563-Web-Apps-S21/webapps-s21-assignment-8-AbhiRam0099.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/44-563-Web-Apps-S21/webapps-s21-assignment-8-AbhiRam0099/issues"
+  },
+  "homepage": "https://github.com/44-563-Web-Apps-S21/webapps-s21-assignment-8-AbhiRam0099#readme"
+}

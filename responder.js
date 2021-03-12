@@ -24,7 +24,7 @@ const server =
           // Process the queries here
           res.statusCode = 200      //code for OK
           res.setHeader('Content-Type', 'text/plain') 
-          res.write("You rang?")
+          res.write("nothing fun about me!")
           res.end();
         
       } else {
